@@ -3,3 +3,8 @@ PvP101/PvP101/bin/Debug/Mono.Data.Sqlite.dll
 PvP101/PvP101/bin/Debug/MySql.Data.dll
 PvP101/PvP101/bin/Debug/Newtonsoft.Json.dll
 PvP101/PvP101/bin/Debug/TShockAPI.dll
+PvP101/obj/
+PvP101/bin/Debug/Mono.Data.Sqlite.dll
+PvP101/bin/Debug/MySql.Data.dll
+PvP101/bin/Debug/Newtonsoft.Json.dll
+PvP101/bin/Debug/TShockAPI.dll
